@@ -24,4 +24,3 @@ void puts_half(char *str)
 	}
 	_putchar('\n');
 }
-© 2022 GitHub, Inc
